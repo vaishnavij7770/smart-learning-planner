@@ -68,8 +68,6 @@ smart-learning-planner/
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -80,27 +78,22 @@ Copy code
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
 Backend will run at:
-
-cpp
-Copy code
 http://127.0.0.1:8000
-Swagger API docs:
 
-arduino
-Copy code
+Swagger API docs:
 http://127.0.0.1:8000/docs
+
 Frontend Setup
-bash
-Copy code
+
 cd frontend
 npm install
 npm run dev
-Frontend will run at:
 
-arduino
-Copy code
+Frontend will run at:
 http://localhost:5173
+
 📊 Application Modules
 Authentication – Signup & Login
 
@@ -121,17 +114,11 @@ Vaishnavi Jadhav
 
 GitHub: https://github.com/vaishnavij7770
 
-yaml
-Copy code
-
 ---
 
 ## 📍 STEP 4: SAVE FILE
 Press:
 CTRL + S
-
-yaml
-Copy code
 
 ---
 
